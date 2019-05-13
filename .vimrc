@@ -63,6 +63,6 @@ syntax on
 
 set spelllang=es
 
-set guifont=Monospace\ 14 
+set guifont=Monospace\ 12
 
 colorscheme codedark
