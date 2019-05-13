@@ -230,6 +230,7 @@ call <sid>hi('markdownFootnoteDefinition', s:cdOrange, {}, 'none', {})
 call <sid>hi('markdownUrl', s:cdLightBlue, {}, 'underline', {})
 call <sid>hi('markdownLinkText', s:cdOrange, {}, 'none', {})
 call <sid>hi('markdownEscape', s:cdYellowOrange, {}, 'none', {})
+call <sid>hi('markdownTab', s:cdYellowOrange, {}, 'none', {})
 
 " JSON:
 call <sid>hi('jsonKeyword', s:cdLightBlue, {}, 'none', {})
